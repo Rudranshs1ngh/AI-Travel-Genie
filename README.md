@@ -4,7 +4,7 @@
 
 
   
-# Trip Planner App  :earth_asia:	:mountain_snow:
+# Trip Planner App  :earth_asia:
 
 <div style="text-align: center;"> 
  
